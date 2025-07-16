@@ -54,8 +54,8 @@
         <MudDivider/>
 
     </MudPaper>
-
-
+    
+    @* The section containing purchase details such as location and price *@
     <MudPaper Class="pa-4 ma-2" Square=true Outlined=true Elevation=3>
         <MudText Typo="Typo.h5">Purchase Details</MudText>
 
@@ -78,13 +78,20 @@
 </MudForm>
 
 @code {
+    [Parameter]
+    public EventCallback<CannabisProduct> OnValidSubmit { get; set; }
+
+    [Parameter]
+    public string SubmitButtonText { get; set; } = "Add Product";
+
+    [Parameter]
+    public CannabisProduct? CurrentProduct { get; set; }
+
     MudForm _form = default!;
     MudButton _submitButton = default!;
 
     private bool _isFormValid = false;
     private AddProductValidationModel _model = new();
-
-
 
     class AddProductValidationModel
     {
@@ -104,7 +111,28 @@
         public double PurchasePrice = 0.0;
 
         public string Notes = "";
-    } 
+    }
+
+    protected override void OnParametersSet()
+    {
+
+        _model = new AddProductValidationModel()
+            {
+                ProductName = CurrentProduct.ProductName,
+                BrandName = CurrentProduct.ProductBrand,
+                Species = CurrentProduct.ProductSpecies,
+                Chemotype = CurrentProduct.ProductChemotype,
+                Grower = CurrentProduct.Grower,
+                Strain = CurrentProduct.Strain,
+                HarvestDate = CurrentProduct.HarvestDate,
+                PurchaseLocation = CurrentProduct.PurchaseLocation,
+                PurchaseDate = CurrentProduct.PurchaseDate,
+                PurchasePrice = CurrentProduct.Cost,
+                Notes = CurrentProduct.Notes
+            };
+
+        base.OnParametersSet();
+    }
 
     private bool _firstRender = true;
 
@@ -121,7 +149,6 @@
 
         if (_isFormValid)
         {
-            Console.WriteLine("Valid");
             NavigationManager.NavigateTo("/");
         } 
     }

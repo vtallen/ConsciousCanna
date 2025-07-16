@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsciousCanna.Blazor.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f94d3aff9d751777770d39bde78dda37889682e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de0f2324f07992912ae13118d51bf6aa8731aaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsciousCanna.Blazor.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsciousCanna.Blazor.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
