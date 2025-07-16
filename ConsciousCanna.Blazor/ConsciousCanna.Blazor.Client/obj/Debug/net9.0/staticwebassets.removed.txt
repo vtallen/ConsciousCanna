@@ -1,0 +1,2 @@
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor.Client\wwwroot\appsettings.Development.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor.Client\wwwroot\appsettings.json

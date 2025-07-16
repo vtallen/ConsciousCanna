@@ -1,0 +1,35 @@
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.deps.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.pdb
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.AssemblyInfoInputs.cache
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.AssemblyInfo.cs
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.csproj.CoreCompileInputs.cache
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.sourcelink.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\refint\ConsciousCanna.Core.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.pdb
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ref\ConsciousCanna.Core.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.deps.json
+D:\ConsciousCanna.Web\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.pdb
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.AssemblyInfoInputs.cache
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.AssemblyInfo.cs
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.csproj.CoreCompileInputs.cache
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.sourcelink.json
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\refint\ConsciousCanna.Core.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.pdb
+D:\ConsciousCanna.Web\ConsciousCanna.Core\obj\Debug\net8.0\ref\ConsciousCanna.Core.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.deps.json
+C:\dev\ConsciousCanna\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Core\bin\Debug\net8.0\ConsciousCanna.Core.pdb
+C:\dev\ConsciousCanna\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ConsciousCanna\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.AssemblyInfoInputs.cache
+C:\dev\ConsciousCanna\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.AssemblyInfo.cs
+C:\dev\ConsciousCanna\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.csproj.CoreCompileInputs.cache
+C:\dev\ConsciousCanna\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Core\obj\Debug\net8.0\refint\ConsciousCanna.Core.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Core\obj\Debug\net8.0\ConsciousCanna.Core.pdb
+C:\dev\ConsciousCanna\ConsciousCanna.Core\obj\Debug\net8.0\ref\ConsciousCanna.Core.dll

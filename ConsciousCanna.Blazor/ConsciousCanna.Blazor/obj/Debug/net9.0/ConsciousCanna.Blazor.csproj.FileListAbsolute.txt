@@ -1,0 +1,231 @@
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.csproj.AssemblyReference.cache
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.AssemblyInfoInputs.cache
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.AssemblyInfo.cs
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.csproj.CoreCompileInputs.cache
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.sourcelink.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.staticwebassets.runtime.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.staticwebassets.endpoints.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\appsettings.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.staticwebassets.runtime.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.staticwebassets.endpoints.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.exe
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.deps.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.runtimeconfig.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.pdb
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Localization.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.JSInterop.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\MudBlazor.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.pdb
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\scopedcss\bundle\ConsciousCanna.Blazor.styles.css
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\tzxjg6is5z-sowobu9fea.gz
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\0wz98yz2xy-b8x8f7e52z.gz
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\ga6t4ziuvj-2jeq8efc6q.gz
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\Consciou.66074CDF.Up2Date
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\refint\ConsciousCanna.Blazor.dll
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.pdb
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.genruntimeconfig.cache
+C:\Users\Vincent Allen\source\repos\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ref\ConsciousCanna.Blazor.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\appsettings.Development.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\appsettings.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.staticwebassets.runtime.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.staticwebassets.endpoints.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.staticwebassets.runtime.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.staticwebassets.endpoints.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.exe
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.deps.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.runtimeconfig.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.pdb
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Localization.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.JSInterop.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.JSInterop.WebAssembly.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\MudBlazor.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.pdb
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.csproj.AssemblyReference.cache
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.AssemblyInfoInputs.cache
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.AssemblyInfo.cs
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.csproj.CoreCompileInputs.cache
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.MvcApplicationPartsAssemblyInfo.cache
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.sourcelink.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\scopedcss\bundle\ConsciousCanna.Blazor.styles.css
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\tzxjg6is5z-sowobu9fea.gz
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\0wz98yz2xy-b8x8f7e52z.gz
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\ga6t4ziuvj-2jeq8efc6q.gz
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.development.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\Consciou.66074CDF.Up2Date
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\refint\ConsciousCanna.Blazor.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.pdb
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.genruntimeconfig.cache
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ref\ConsciousCanna.Blazor.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Core.dll
+D:\ConsciousCanna.Web\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Core.pdb
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\appsettings.Development.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\appsettings.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.staticwebassets.runtime.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.staticwebassets.endpoints.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.staticwebassets.runtime.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.staticwebassets.endpoints.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.exe
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.deps.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.runtimeconfig.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.pdb
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Localization.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.JSInterop.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\Microsoft.JSInterop.WebAssembly.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\MudBlazor.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Core.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Blazor.Client.pdb
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\bin\Debug\net9.0\ConsciousCanna.Core.pdb
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.csproj.AssemblyReference.cache
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.AssemblyInfoInputs.cache
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.AssemblyInfo.cs
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.csproj.CoreCompileInputs.cache
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\scopedcss\bundle\ConsciousCanna.Blazor.styles.css
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\tzxjg6is5z-sowobu9fea.gz
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\0wz98yz2xy-b8x8f7e52z.gz
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\compressed\ga6t4ziuvj-2jeq8efc6q.gz
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.development.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\Consciou.66074CDF.Up2Date
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\refint\ConsciousCanna.Blazor.dll
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.pdb
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ConsciousCanna.Blazor.genruntimeconfig.cache
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\obj\Debug\net9.0\ref\ConsciousCanna.Blazor.dll

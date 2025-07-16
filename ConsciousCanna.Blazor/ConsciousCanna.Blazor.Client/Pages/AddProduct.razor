@@ -1,0 +1,128 @@
+﻿@page "/add"
+@inject NavigationManager NavigationManager;
+
+@using ConsciousCanna.Core.DataClasses;
+@using System.ComponentModel.DataAnnotations
+
+<PageTitle>Add Product</PageTitle>
+
+<MudForm @ref=_form @bind-IsValid=_isFormValid>
+    <MudPaper Class="pa-4 ma-2" Square=true Outlined=true Elevation=3>
+        <MudText Typo="Typo.h5">Product Type</MudText>
+        <MudSelect
+            @bind-Value="_model.SelectedProductType">
+            @foreach (string productType in ProductType.Values)
+            {
+                <MudSelectItem Value="productType">@productType</MudSelectItem>
+            }
+        </MudSelect>
+    </MudPaper>
+
+    @* The product details section valid for all types of products *@
+    <MudPaper Class="pa-4 ma-2" Square=true Outlined=true Elevation=3>
+        <MudText Typo="Typo.h5">Product Details</MudText>
+
+        <MudTextField @bind-Value="_model.ProductName" Required="true" Label="Product Name" HelperText="Product Name" Variant="Variant.Outlined" />
+        <MudDivider/>
+
+        <MudTextField @bind-Value="_model.BrandName" Label="Brand Name" HelperText="Brand Name" Variant="Variant.Outlined" />
+        <MudDivider/>
+
+        <MudTextField @bind-Value="_model.Grower" Label="Grower" HelperText="Grower" Variant="Variant.Outlined" />
+        <MudDivider/>
+
+        <MudTextField @bind-Value="_model.Strain" Label="Strain" HelperText="Strain" Variant="Variant.Outlined" />
+        <MudDivider/>
+
+        <MudToggleGroup Class="mt-4" @bind-Value="_model.Species" Color="Color.Primary">
+            <MudToggleItem Value="@(Species.Indica)" Icon="@Icons.Material.Filled.FormatAlignLeft" />
+            <MudToggleItem Value="@(Species.Hybrid)" Icon="@Icons.Material.Filled.FormatAlignCenter" />
+            <MudToggleItem Value="@(Species.Sativa)" Icon="@Icons.Material.Filled.FormatAlignRight" />
+        </MudToggleGroup>
+        <MudText Typo="Typo.caption" Class="pl-2">Product Species</MudText>
+        <MudDivider/>
+
+        <MudToggleGroup Class="mt-4" @bind-Value="_model.Chemotype" Color="Color.Primary">
+            <MudToggleItem Value="@(Chemotype.THC)" Icon="@Icons.Material.Filled.FormatAlignLeft" />
+            <MudToggleItem Value="@(Chemotype.THCCBD)" Icon="@Icons.Material.Filled.FormatAlignCenter" />
+            <MudToggleItem Value="@(Chemotype.CBD)" Icon="@Icons.Material.Filled.FormatAlignRight" />
+        </MudToggleGroup>
+        <MudText Typo="Typo.caption" Class="pl-2">Product Chemotype</MudText>
+        <MudDivider/>
+
+        <MudTextField Class="mt-4" T="DateTime?" Format="MM-dd-yyyy" Label="Harvest Date" InputType="InputType.Date" @bind-Value="_model.HarvestDate"/>
+        <MudDivider/>
+
+    </MudPaper>
+
+
+    <MudPaper Class="pa-4 ma-2" Square=true Outlined=true Elevation=3>
+        <MudText Typo="Typo.h5">Purchase Details</MudText>
+
+        <MudTextField Class="mt-4" @bind-Value="_model.PurchaseLocation" Label="Purchase Location" HelperText="Purchase Location" Variant="Variant.Outlined" />
+        <MudDivider/>
+
+        <MudTextField Class="mt-4" T="DateTime?" Format="MM-dd-yyyy" Label="Purchase Date" InputType="InputType.Date" @bind-Value="_model.PurchaseDate"/>
+        <MudDivider/>
+
+        <MudTextField Class="mt-4" @bind-Value="_model.PurchasePrice" Label="Amount" Variant="Variant.Outlined" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.AttachMoney" AdornmentColor="Color.Warning"/>
+    </MudPaper>
+
+    <MudPaper Class="pa-4 ma-2" Square=true Outlined=true Elevation=3>
+        <MudTextField @bind-Value="_model.Notes" T="string" Label="Product Notes" Lines="6" Variant="Variant.Outlined" Text="@("Notes")" Adornment="Adornment.End" />
+    </MudPaper>
+
+    <MudPaper Class="pa-4 ma-2 d-flex justify-center" Square=true Outlined=true Elevation=3>
+        <MudButton OnClick=Submit @ref=_submitButton Variant="Variant.Filled" Color="Color.Primary" Disabled="@(!_isFormValid)">Add Product</MudButton>
+    </MudPaper>
+</MudForm>
+
+@code {
+    MudForm _form = default!;
+    MudButton _submitButton = default!;
+
+    private bool _isFormValid = false;
+    private AddProductValidationModel _model = new();
+
+
+
+    class AddProductValidationModel
+    {
+        public string SelectedProductType = ProductType.Flower;
+
+        [Required(ErrorMessage = "A name is required to create a product.")]
+        public string ProductName = "";
+        public string BrandName = "";
+        public string Species = "";
+        public string Chemotype = "";
+        public string Grower = "";
+        public string Strain = "";
+        public DateTime? HarvestDate;
+
+        public string PurchaseLocation = "";
+        public DateTime? PurchaseDate;
+        public double PurchasePrice = 0.0;
+
+        public string Notes = "";
+    } 
+
+    private bool _firstRender = true;
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (_firstRender)
+        {
+        }
+    }
+
+    private async Task Submit()
+    {
+        await _form.Validate();
+
+        if (_isFormValid)
+        {
+            Console.WriteLine("Valid");
+            NavigationManager.NavigateTo("/");
+        } 
+    }
+}

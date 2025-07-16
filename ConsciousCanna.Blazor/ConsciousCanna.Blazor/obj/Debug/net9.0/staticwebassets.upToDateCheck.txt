@@ -1,0 +1,2 @@
+wwwroot\favicon.ico
+C:\dev\ConsciousCanna\ConsciousCanna.Blazor\ConsciousCanna.Blazor\wwwroot\favicon.ico
