@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LWZ/7fR3KoI=",
+  "dgSpecHash": "UBMErHMtuD4=",
   "success": true,
   "projectFilePath": "C:\\dev\\ConsciousCanna\\ConsciousCanna.Blazor\\ConsciousCanna.Blazor\\ConsciousCanna.Blazor.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,8 @@
     "C:\\Users\\vallen\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512",
     "C:\\Users\\vallen\\.nuget\\packages\\microsoft.jsinterop\\9.0.7\\microsoft.jsinterop.9.0.7.nupkg.sha512",
     "C:\\Users\\vallen\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.7\\microsoft.jsinterop.webassembly.9.0.7.nupkg.sha512",
-    "C:\\Users\\vallen\\.nuget\\packages\\mudblazor\\8.9.0\\mudblazor.8.9.0.nupkg.sha512"
+    "C:\\Users\\vallen\\.nuget\\packages\\mudblazor\\8.9.0\\mudblazor.8.9.0.nupkg.sha512",
+    "C:\\Users\\vallen\\.nuget\\packages\\tg.blazor.indexeddb.sisn\\1.0.0\\tg.blazor.indexeddb.sisn.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

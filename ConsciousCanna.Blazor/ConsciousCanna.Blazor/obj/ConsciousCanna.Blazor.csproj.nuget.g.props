@@ -14,6 +14,7 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)tg.blazor.indexeddb.sisn\1.0.0\buildTransitive\TG.Blazor.IndexedDB.sisn.props" Condition="Exists('$(NuGetPackageRoot)tg.blazor.indexeddb.sisn\1.0.0\buildTransitive\TG.Blazor.IndexedDB.sisn.props')" />
     <Import Project="$(NuGetPackageRoot)mudblazor\8.9.0\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\8.9.0\buildTransitive\MudBlazor.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">

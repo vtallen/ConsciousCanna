@@ -489,13 +489,40 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
+      "TG.Blazor.IndexedDB.sisn/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.5",
+          "Microsoft.AspNetCore.Components.Web": "3.1.5"
+        },
+        "compile": {
+          "lib/netstandard2.0/TG.Blazor.IndexedDB.sisn.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TG.Blazor.IndexedDB.sisn.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        },
+        "build": {
+          "buildTransitive/TG.Blazor.IndexedDB.sisn.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/TG.Blazor.IndexedDB.sisn.props": {}
+        }
+      },
       "ConsciousCanna.Blazor.Client/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "ConsciousCanna.Core": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "9.0.0",
-          "MudBlazor": "8.0.0"
+          "MudBlazor": "8.0.0",
+          "TG.Blazor.IndexedDB.sisn": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ConsciousCanna.Blazor.Client.dll": {}
@@ -1225,6 +1252,26 @@
         "mudblazor.nuspec",
         "staticwebassets/MudBlazor.min.css",
         "staticwebassets/MudBlazor.min.js"
+      ]
+    },
+    "TG.Blazor.IndexedDB.sisn/1.0.0": {
+      "sha512": "qSi+YpRv8eRAgFLDTMYGoFVX+Qzkx3cubekTCR/QyPtXFM6zSGSgkwG65vLiMnBf/V4IfFg+RQNbXMrNb3tovw==",
+      "type": "package",
+      "path": "tg.blazor.indexeddb.sisn/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/TG.Blazor.IndexedDB.sisn.props",
+        "buildMultiTargeting/TG.Blazor.IndexedDB.sisn.props",
+        "buildTransitive/TG.Blazor.IndexedDB.sisn.props",
+        "content/package-lock.json",
+        "contentFiles/any/netstandard2.0/package-lock.json",
+        "lib/netstandard2.0/TG.Blazor.IndexedDB.sisn.dll",
+        "staticwebassets/indexedDb.Blazor.js",
+        "tg.blazor.indexeddb.sisn.1.0.0.nupkg.sha512",
+        "tg.blazor.indexeddb.sisn.nuspec"
       ]
     },
     "ConsciousCanna.Blazor.Client/1.0.0": {
